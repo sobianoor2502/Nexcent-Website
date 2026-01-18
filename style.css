@@ -1,0 +1,24 @@
+:root{
+    --primaryColor : #4CAF4F;
+    --bgColor :#FFFFFF !important;
+    --bgColor :#F5F7FA!important;
+    
+}
+
+.btnGreen{
+    background: #4CAF4F !important;
+    color: white;
+}
+.btnGreen i{
+    padding-left: 5px;
+
+}
+.txtColr{
+    color: #4CAF4F;
+}
+.bg-grey{
+    background-color: var(--bgColor);
+}
+.bg-white{
+    background-color: #FFFFFF;
+}

@@ -26,8 +26,8 @@
     background-color: #FFFFFF;
 }
 .footer-input::placeholder{
-    color: #F5F7FA !important;
-    opacity: 2 !important;
+    color:grey !important;
+    opacity: 1 !important;
 }
 @media screen and (min-width:579px) {
     .minimize{

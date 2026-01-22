@@ -14,11 +14,29 @@
 
 }
 .txtColr{
-    color: #4CAF4F;
+    color: #4CAF4F ;
 }
 .bg-grey{
     background-color: var(--bgColor);
 }
+.footer-color{
+    background-color: #263238;
+}
 .bg-white{
     background-color: #FFFFFF;
+}
+.footer-input::placeholder{
+    color: #F5F7FA !important;
+    opacity: 2 !important;
+}
+@media screen and (min-width:579px) {
+    .minimize{
+    width: 7% !important;
+}
+}
+.txtColr{
+    color: #4CAF4F !important;
+}    
+.bg-grey{
+    background-color: #F5F7FA !important;
 }
